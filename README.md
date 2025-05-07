@@ -1,2 +1,2 @@
-# -ifre_olu-turucu
+# sifre_olusturucu
 rastgele şifre oluşturucu
